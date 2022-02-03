@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to right, #00d0ff 0%, #2200ff 100%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.game {
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+.clicky {
+    font-size: 20px;
+}
+
+#sort {
+    display: none;
+}
+
+#games {
+    font-size: 30px;
+}
